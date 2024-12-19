@@ -25,31 +25,6 @@ Welcome to the **Fraud Detection** project! This repository hosts a powerful web
 
 ---
 
-## 🛠️ Repository Structure
-
-Here's what you'll find in this repository:
-
-```plaintext
-frauddetection/
-│
-├── uploads/                # Folder for storing uploaded PDF files
-├── vector_store/           # Pre-built FAISS vector database
-│
-├── server/
-│   ├── app.py              # Flask server for handling backend logic
-│   ├── rag_pipeline.py     # Core RAG pipeline for document analysis
-│
-├── frontend/
-│   ├── index.html          # Main web page
-│   ├── style.css           # CSS for styling the web page
-│   ├── script.js           # JavaScript for interactivity
-│
-├── requirements.txt        # Python dependencies
-└── README.md               # This README file
-```
-
----
-
 ## 🚀 Quick Start
 
 ### **1. Clone the Repository**
